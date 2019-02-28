@@ -6,7 +6,8 @@ public class Emp {
 	private int age;
 	private double salary;
 	
-	// adding a commit
+	//pulling from master branch
+	
 	public String getName() {
 		return name;
 	}

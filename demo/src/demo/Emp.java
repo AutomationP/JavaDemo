@@ -2,6 +2,7 @@ package demo;
 
 public class Emp {
 
+	// fetching
 	private String name;
 	private int age;
 	private double salary;
